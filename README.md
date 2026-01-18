@@ -1,6 +1,7 @@
 # Python-Job-Listings-Scraper - Fake Jobs Web Scraper
 
 A simple Python web scraping project that extracts job posting data from **https://realpython.github.io/fake-jobs/**.
+https://roadmap.sh/projects/job-listings-scraper
 
 This project is designed as a learning exercise to demonstrate how to:
 - Scrape data from a static website
